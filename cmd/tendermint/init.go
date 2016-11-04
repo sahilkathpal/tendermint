@@ -2,7 +2,7 @@ package main
 
 import (
 	. "github.com/tendermint/go-common"
-	"github.com/tendermint/tendermint/types"
+	"github.com/sahilkathpal/tendermint/types"
 )
 
 func init_files() {
