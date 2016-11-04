@@ -1,6 +1,6 @@
 #! /bin/bash
 
-go get github.com/tendermint/tmsp/...
+go get github.com/anildukkipatty/tmsp/...
 
 # get the tmsp commit used by tendermint
 COMMIT=`bash scripts/glide/parse.sh $(pwd)/glide.lock tmsp`
